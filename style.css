@@ -5,7 +5,6 @@ body{
     background-image: url(bg1.png);
     /*to remove the possibility of ever getting horizontal scroll bar*/
     width:100%;
-    overflow:hidden;
 }
 #head{
     text-align: center;
